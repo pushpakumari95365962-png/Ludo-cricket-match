@@ -109,6 +109,7 @@
         document.getElementById('welcome-user').innerText = "Namaste, " + playerName + "!";
         document.getElementById('name-screen').style.display = 'none';
         document.getElementById('game-container').style.display = 'block';
+        <link rel="manifest" href="manifest.json">
     }
 
     // 3. Core Game Logic (Simplified for Home Page)
