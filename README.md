@@ -117,5 +117,5 @@
 
     function playTurn() {
         const outcomes = 
-
+<link rel="manifest" href="manifest.json">
     
