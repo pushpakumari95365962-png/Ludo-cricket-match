@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
@@ -116,6 +116,5 @@
     let scores = [0, 0], wickets = [0, 0], wallet = {coins: 400, diamonds: 10}, currentPlayer = 0;
 
     function playTurn() {
-        const outcomes = 
-<link rel="manifest" href="manifest.json">
+
     
